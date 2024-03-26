@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buildriseshine/api/reactjs/dictionary/static/css/main.819c3828.css",
-    "main.js": "/buildriseshine/api/reactjs/dictionary/static/js/main.28724144.js",
-    "static/js/787.0157ba9a.chunk.js": "/buildriseshine/api/reactjs/dictionary/static/js/787.0157ba9a.chunk.js",
-    "static/media/BG.png": "/buildriseshine/api/reactjs/dictionary/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "/buildriseshine/api/reactjs/dictionary/index.html",
-    "main.819c3828.css.map": "/buildriseshine/api/reactjs/dictionary/static/css/main.819c3828.css.map",
-    "main.28724144.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/main.28724144.js.map",
-    "787.0157ba9a.chunk.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/787.0157ba9a.chunk.js.map"
+    "main.css": "/dictionary-react/static/css/main.11f81ff6.css",
+    "main.js": "/dictionary-react/static/js/main.8910367f.js",
+    "static/js/787.0157ba9a.chunk.js": "/dictionary-react/static/js/787.0157ba9a.chunk.js",
+    "static/media/bg.jpg": "/dictionary-react/static/media/bg.92db8dd23c41c5b5407f.jpg",
+    "index.html": "/dictionary-react/index.html",
+    "main.11f81ff6.css.map": "/dictionary-react/static/css/main.11f81ff6.css.map",
+    "main.8910367f.js.map": "/dictionary-react/static/js/main.8910367f.js.map",
+    "787.0157ba9a.chunk.js.map": "/dictionary-react/static/js/787.0157ba9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.819c3828.css",
-    "static/js/main.28724144.js"
+    "static/css/main.11f81ff6.css",
+    "static/js/main.8910367f.js"
   ]
 }
